@@ -6,3 +6,11 @@
   border-radius: 6px;
   background-color: rgba(245, 245, 245, 0.692);
 }
+
+img.action {
+  cursor: pointer;
+}
+
+a.action {
+  text-decoration: none;
+}
