@@ -22,3 +22,12 @@ img.action {
 a.action {
   text-decoration: none;
 }
+
+.navbar-brand {
+  background-image: url(../img/binary-code-light.svg);
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-position-y: center;
+  background-size: 30px;
+  padding-left: 36px;
+}
